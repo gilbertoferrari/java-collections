@@ -11,4 +11,15 @@ execução de exercícios e desafios na linguagem *Java*.
 
 O projeto contem pastas com os exercicios separados por assunto.
 
-- `list`: pasta com as classes sobre List
+- `java/list/OperacoesBasicas`: pasta com as classes sobre List
+
+  
+| Pasta | Projeto | Classes |
+| ------------- | ------------- | ------------- |
+| `java/list/OperacoesBasicas` | ListaTarefas | Tarefa.java - ListaTarefa.java - Main.java |  
+
+
+
+
+
+  
