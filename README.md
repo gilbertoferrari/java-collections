@@ -14,9 +14,20 @@ O projeto contem pastas com os exercicios separados por assunto.
 - `java/list/OperacoesBasicas`: pasta com as classes sobre List
 
   
-| Pasta | Projeto | Classes |
-| ------------- | ------------- | ------------- |
-| `java/list/OperacoesBasicas` | ListaTarefas | Tarefa.java - ListaTarefa.java - Main.java |  
+| Pasta | Assunto | Projeto | Pacote | Classes |
+| ------------- | ------------- | ------------- | ------------- |------------- |
+| `java/list` | `/OPeracoesBasicas` |`/ListaTarefas` | `/src/` | Tarefa.java</br>ListaTarefa.java</br>Main.java |  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
