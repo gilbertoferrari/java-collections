@@ -16,5 +16,10 @@ public class Main {
 
         System.out.println("Existem " + conjuntoConvidado.contarConvidados() + " dentro do set de convidados");
         conjuntoConvidado.exibirConvidados();
+
+        conjuntoConvidado.removerConvidadoPorCodigoConvite(1234);
+
+        conjuntoConvidado.exibirConvidados();
+        
     }
 }
